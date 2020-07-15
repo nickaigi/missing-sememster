@@ -1,0 +1,1 @@
+lrwxrwxrwx   1 root root         31 Jul 14 06:30 vmlinuz.old -> boot/vmlinuz-4.15.0-109-generic

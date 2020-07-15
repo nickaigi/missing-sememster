@@ -1,2 +1,3 @@
-# missing-sememster
-Lessons from https://missing.csail.mit.edu/2020/
+# The Missing Semester
+
+Lessons from MIT's The [Missing Semester](https://missing.csail.mit.edu/2020/)
